@@ -1,4 +1,4 @@
-# Zylo Item Shop Tutorial!
+# Item Shop Tutorial!
 
 > **Note:**
 > All Fortnite cosmetics are available at [Fortnite.gg](https://fortnite.gg/cosmetics?game=br&type=outfit&season=1,2,3,4,5,6).
