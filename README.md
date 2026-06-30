@@ -1,7 +1,7 @@
 # Item Shop Tutorial!
 
 > **Note:**
-> All Fortnite cosmetics are available at [Fortnite.gg](https://fortnite.gg/cosmetics?game=br&type=outfit&season=1,2,3,4,5,6).
+> All Fortnite cosmetics are available at [Fortnite.gg](https://fortnite.gg/cosmetics?game=br&type=outfit&season=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19).
 
 ---
 
@@ -15,25 +15,25 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaBackpack:Backpack-ID-here"
+            "AthenaCharacter:CID-here"
         ],
         "price": 0
     },
     "daily2": {
         "itemGrants": [
-            "AthenaDance:Dance-ID-here"
+            "AthenaCharacter:CID-here"
         ],
         "price": 0
     },
     "daily3": {
         "itemGrants": [
-            "AthenaGlider:Glider-ID-here"
+            "AthenaCharacter:CID-here"
         ],
         "price": 0
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:Dance-ID-here"
+            "AthenaPickaxe:Pickaxe-ID-here"
         ],
         "price": 0
     },
@@ -45,7 +45,7 @@ The item shop is defined by a JSON file containing slots for daily (`daily1` thr
     },
     "daily6": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe-ID-here"
+            "AthenaDance:Dance-ID-here"
         ],
         "price": 0
     },
